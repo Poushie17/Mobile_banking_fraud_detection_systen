@@ -1,0 +1,52 @@
+﻿# Python environment and cache
+fraud_env/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+
+# Local datasets and transaction records
+data/
+dataset_v1.0_seed42/
+Input.csv
+
+# Python virtual environment
+fraud_env/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Generated outputs and reports
+outputs/
+reports/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+
+src/tempCodeRunnerFile.py
